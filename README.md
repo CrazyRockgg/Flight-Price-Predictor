@@ -98,6 +98,6 @@ Notes about running:
 
 MIT License. Feel free to use and modify the code as needed.
 
-If you want changes to the README (more details, examples, or to add a `requirements.txt`), tell me and I will add them.
+If you want changes to the README (more details or examples), tell me and I will add them.
 
 ---
